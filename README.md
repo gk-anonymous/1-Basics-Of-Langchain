@@ -1,5 +1,6 @@
 
-![download (2)](https://github.com/user-attachments/assets/2a419457-129d-4e44-b301-7431dacb9963)
+![langchain-99002a9564716dd4132a861792f79f16](https://github.com/user-attachments/assets/462d5350-f261-49d6-beb9-2b8373d66e08)
+
 ```markdown
 # 🧠 LangChain - Complete Basics to Advanced (End-to-End Guide)
 
